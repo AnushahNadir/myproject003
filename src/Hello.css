@@ -1,0 +1,8 @@
+.taab, th, tr, td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+.taab.th{
+    padding: 10px;
+}
