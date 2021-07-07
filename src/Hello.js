@@ -25,6 +25,10 @@ function Hello({name}){
             <td>Photoshop</td>
             <td>C++</td>
         </tr>
+        <tr>
+            <td>Total Hours</td>
+            <td>{5+5+5+5}</td>
+        </tr>
     </table>
         
             </div>
